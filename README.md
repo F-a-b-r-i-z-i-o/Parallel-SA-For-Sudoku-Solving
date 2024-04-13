@@ -1,4 +1,4 @@
-# Sudoku Solver Using Parallel Simulated Annealing 🧊🔥
+# Sudoku Solver Using Parallel Simulated Annealing 🔥
 
 This project implements a Sudoku solver using the Simulated Annealing optimization algorithm 🔄. The solver mimics the physical process of heating a material and then slowly lowering the temperature 🌡️ to decrease defects, thus minimizing the energy (number of conflicts) of the Sudoku puzzle.
 
