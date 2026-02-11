@@ -16,7 +16,7 @@ packaging==24.0
 pandas==2.2.1
 pathspec==0.12.1
 pdoc3==0.10.0
-pillow==10.3.0
+pillow==12.1.1
 platformdirs==4.2.0
 pluggy==1.4.0
 pyparsing==3.1.2
